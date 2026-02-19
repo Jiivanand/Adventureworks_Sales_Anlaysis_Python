@@ -89,6 +89,8 @@ This project demonstrates practical experience in **Python-based data analysis**
 For any questions or feedback, feel free to reach out.
 Data sets are already uploaded in the Power BI Project
 
+---
+
 Author: *Jiivanand*
 
 GitHub: https://github.com/Jiivanand
